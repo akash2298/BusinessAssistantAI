@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+.page{
+    max-width: 600px;
+    min-width: 393px;
+    margin: auto;    
+}
+
+hr{
+    width: 40%;
+}
+.login-form h2{
+    font-family: Roboto Flex;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.login-form i{
+    font-size: 24px;
+}
+.login-form .social-login button{
+    gap: 5px;
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.login-form label{
+    text-transform: uppercase;
+    font-family: Roboto Flex;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.from-bottom a{
+    color: #613DE4;
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.login-bottom p{
+    font-family: Roboto Flex;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #3C3C4399;
+}
+
+.login-bottom p span{
+    color: #613DE4;
+}
+
+.login-bottom button{
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #613DE4;
+}
