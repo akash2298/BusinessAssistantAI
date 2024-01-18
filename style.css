@@ -35,6 +35,10 @@ h2{
     text-align: left;
 
 }
+.nav i{
+    font-size: 24px;
+    color: #333;
+}
 .login-form i{
     font-size: 24px;
 }
@@ -159,7 +163,7 @@ a.global-btn-light:hover{
     background-color: #613DE4;
     color: #fff;
 }
-.services .service-item h3{
+.content-box .content-item h3{
     font-family: Roboto Flex;
     font-size: 24px;
     font-weight: 600;
@@ -196,5 +200,21 @@ span.badge{
     letter-spacing: 0em;
     color: #333;
     padding: 10px;
+}
 
+.service-item{
+    background-color: #f2f2f2;
+    align-items: center;
+}
+.service-item h3{
+    font-family: Roboto Flex;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: left;
+    border-left: 4px solid #613DE4;
+    padding: 8px;
+}
+.service-item i{
+    font-size: 24px;
 }
