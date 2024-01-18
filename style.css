@@ -96,7 +96,7 @@ hr{
 .login-bottom button:hover{
     background-color: #613DE4;
 }
-.login-bottom .bottom-btn{
+.login-bottom a.bottom-btn{
     font-family: Roboto Flex;
     font-size: 17px;
     font-weight: 500;
@@ -105,6 +105,6 @@ hr{
     text-align: center;
     background-color: #613DE4;
 }
-.login-bottom .bottom-btn:hover{
+.login-bottom a.bottom-btn:hover{
     background-color: #613DE4;
 }
