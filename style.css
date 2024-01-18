@@ -26,7 +26,7 @@ body{
 hr{
     width: 40%;
 }
-.login-form h2{
+h2{
     font-family: Roboto Flex;
     font-size: 36px;
     font-weight: 600;
@@ -107,4 +107,63 @@ hr{
 }
 .login-bottom a.bottom-btn:hover{
     background-color: #613DE4;
+}
+
+.avatar-page h4{
+    font-family: Roboto Flex;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.avatar-page .style-box{
+    box-sizing: border-box;
+} 
+.avatar-page .style-box img{
+    width: 40vw;
+}
+.avatar-page .avatar-box img{
+    width: 70px;
+}
+.avatar-page .avatar-bg .bg-box .bg{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+
+a.global-btn{
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #613DE4;
+}
+a.global-btn:hover{
+    background-color: #613DE4;
+}
+a.global-btn-light{
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #613de442;
+    color: #613DE4;
+}
+a.global-btn-light:hover{
+    background-color: #613DE4;
+    color: #fff;
+}
+.services .service-item h3{
+    font-family: Roboto Flex;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
 }
