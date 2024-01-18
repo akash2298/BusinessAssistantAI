@@ -167,3 +167,34 @@ a.global-btn-light:hover{
     letter-spacing: 0em;
     text-align: left;
 }
+
+span.badge{
+    font-family: Roboto Flex;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #613de442;
+    color: #613DE4;
+}
+
+.info-top span{
+    font-family: Roboto Flex;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+}
+.info-box td{
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #333;
+    padding: 10px;
+
+}
