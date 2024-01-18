@@ -56,7 +56,7 @@ hr{
     line-height: 12px;
     letter-spacing: 0em;
     text-align: left;
-
+    margin-left: 15px;
 }
 
 .from-bottom a{
@@ -94,5 +94,17 @@ hr{
     background-color: #613DE4;
 }
 .login-bottom button:hover{
+    background-color: #613DE4;
+}
+.login-bottom .bottom-btn{
+    font-family: Roboto Flex;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #613DE4;
+}
+.login-bottom .bottom-btn:hover{
     background-color: #613DE4;
 }
