@@ -93,3 +93,6 @@ hr{
     text-align: center;
     background-color: #613DE4;
 }
+.login-bottom button:hover{
+    background-color: #613DE4;
+}
