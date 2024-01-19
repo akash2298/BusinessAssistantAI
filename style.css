@@ -66,6 +66,16 @@ h2{
     text-align: left;
     margin-left: 15px;
 }
+label{
+    text-transform: uppercase;
+    font-family: Roboto Flex;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 15px;
+}
 
 .from-bottom a{
     color: #613DE4;
