@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Roboto Flex', sans-serif;
+    box-sizing: border-box;
 }
 
 ul li{
@@ -15,14 +16,16 @@ a{
 
 body{
     width: 100%;
-    height: 100vh;
+    height: 100%;
 }
 
 .page{
     max-width: 600px;
     min-width: 393px;
+    height: 100vh;
     margin: auto;    
 }
+
 
 hr{
     width: 40%;
@@ -218,4 +221,10 @@ span.badge{
 }
 .service-item i{
     font-size: 24px;
+}
+.content ul li{
+    list-style: disc;
+}
+.content ol li{
+    list-style: none;
 }
