@@ -161,7 +161,7 @@ a.global-btn-light{
     letter-spacing: 0em;
     text-align: center;
     background-color: #613de442;
-    color: #613DE4;
+    color: #613DE4 !important;
 }
 a.global-btn-light:hover{
     background-color: #613DE4;
@@ -227,4 +227,12 @@ span.badge{
 }
 .content ol li{
     list-style: none;
+}
+
+.page-auto {
+    height: auto;
+}
+
+.global-btn-group a{
+    width: 48%;
 }
