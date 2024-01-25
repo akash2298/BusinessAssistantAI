@@ -332,4 +332,16 @@ span.badge{
 }
 .niche .btn{
     background-color: #f2f2f2;
+    border: none;
+}
+
+.niche .btn:hover{
+    background-color: #8D09BF;
+    color: #f2f2f2;
+    border: none;
+}
+.niche .btn:active{
+    background-color: #8D09BF;
+    color: #f2f2f2;
+    border: none;
 }
